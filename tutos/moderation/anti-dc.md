@@ -1,3 +1,7 @@
+---
+icon: markdown
+---
+
 # 👾 Anti doubles comptes
 
 Tu cherches à configurer un système d'anti double compte puissant et fiable ?

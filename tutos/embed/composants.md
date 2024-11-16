@@ -1,5 +1,6 @@
 ---
 description: aka boutons, select-menus, modals...
+icon: network-wired
 ---
 
 # 🔳 3. Composants

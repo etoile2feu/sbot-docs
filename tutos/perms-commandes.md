@@ -2,6 +2,7 @@
 description: >-
   Tu veux que certaines commandes soient inaccessibles par certaines personnes,
   ou l'inverse ? Alors ce tuto est fait pour toi
+icon: pen-to-square
 ---
 
 # 🔘 Permissions slashs commandes
@@ -15,6 +16,8 @@ Par défaut, Sbot configure automatiquement les permissions des slashs commandes
 Va dans les paramètres du serveur, puis **intégrations**. Tu devrais voir un truc comme ça :
 
 <figure><img src="../.gitbook/assets/interactions-permissions-1.png" alt="Menu des interactions Discord" width="563"><figcaption><p>Menu des interactions Discord</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/images.jpg" alt=""><figcaption></figcaption></figure>
 
 Sélectionne Sbot, tu arriveras sur ce menu :
 

@@ -1,8 +1,9 @@
 ---
 description: créateur d'embed
+icon: image-landscape
 ---
 
-# 🪟 C'est quoi un embed ?
+# 🪟 1. C'est quoi un embed ?
 
 Un embed est un type de message discord ( un **composant** plus précisement). Tu peux le personnaliser à ta guise et les possibilités sont infinies !
 

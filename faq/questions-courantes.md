@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 💁 Questions courantes
+# 🙋 Questions courantes
 
 ### Sbot est-il souvent down ?
 
