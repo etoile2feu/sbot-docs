@@ -1,13 +1,33 @@
 ---
-icon: image-landscape
+description: créateur d'embed
 ---
 
-# Images & media
+# 🪟 C'est quoi un embed ?
 
-GitBook allows you to add images and media easily to your docs. Simply drag a file into the editor, or use the file manager in the upper right corner to upload multiple images at once.
+Un embed est un type de message discord ( un **composant** plus précisement). Tu peux le personnaliser à ta guise et les possibilités sont infinies !
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/images-hero.png" alt=""><figcaption><p>Add alt text and captions to your images</p></figcaption></figure>
+Voici à quoi peut ressembler un embed :
 
-{% hint style="info" %}
-You can also add images simply by copying and pasting them directly into the editor — and GitBook will automatically add it to your file manager.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/embed-exemple.png" alt=""><figcaption><p>Exemple de ce qu'est un embed</p></figcaption></figure>
+
+Un embed peut être composé de plusieurs éléments :
+
+> Couleur: couleur que aura l'embed
+>
+> Titre : titre de l'embed
+>
+> Description : description de l'embed
+>
+> Auteur : auteur de l'embed
+>
+> Vignette : thumbnail de l'embed (sur l'image en haut à droite)
+>
+> Image : Image de l'embed
+>
+> Footer : footer de l'embed
+>
+> Vignette Date : vignette de date de création de l'embed
+
+Le créateur de l'embed est encore en beta, donc un peu capricieux parfois mais totalement fonctionnelle !
+
+N’hésite pas à me signaler les bugs que tu as pu rencontrer sur celui ci.
