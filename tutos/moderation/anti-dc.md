@@ -1,26 +1,29 @@
----
-icon: markdown
----
+# 👾 Anti doubles comptes
 
-# Markdown
+Tu cherches à configurer un système d'anti double compte puissant et fiable ?
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+Alors tu es au bon endroit 😎 Sbot a un système anti double comptes personnalisable, qui détecte si les nouveaux arrivants sont des doubles comptes ou pas en fonction des réglages que tu auras mis.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
+Pour configurer le système d'anti double comptes, il faut effectuer ses étapes :
 
-Feel free to test it out and copy the Markdown below by hovering over the code block in the upper right, and pasting into a new line underneath.
+Important: quand je parle de dc, cela signifie double compte.
 
-```markdown
-# Heading
+## 1. Vérifier que Sbot a les permissions
 
-This is some paragraph text, with a [link](https://docs.gitbook.com) to our docs. 
+Afin de bannir ou timeout les arrivants qui sont suspectés d’être des doubles comptes, SBot doit avoir les permissions SINON CELA NE FONCTIONNERA PAS :
 
-## Heading 2
-- Point 1
-- Point 2
-- Point 3
-```
+_**Exclure temporairement les membres aka modérer les membres**_, _**Bannir les membres**_
 
-{% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
-{% endhint %}
+Après avoir configuré le système tu pourras adapter ses autorisations au besoin.
+
+## 2. Commencer la configuration
+
+Fais la slash commande /moderation de SBot, sélectionne dans le menu "anti doubles comptes", et laisse toi guider par le processus de configuration, c'est très simple et intuitif !
+
+Il y a néanmoins quelques points qui peuvent poser difficultée, voici lequels et comment s'y retrouver !
+
+> Lorsque Sbot te demande si il ban le suspecté dc le temps que ou à vie , voici ce que cela veut dire :
+>
+> le temps que : SBot timeout le membre suspecté d'être un dc le temps qu'il ne soit plus considéré comme un dc
+>
+> à vie : SBot bannira instantanément le compte suspecté d'être un double compte.
