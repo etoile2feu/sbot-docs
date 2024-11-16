@@ -1,8 +1,9 @@
 ---
 icon: bullseye-arrow
+description: Voici des questions courantes que tu peux te poser sur Sbot
 ---
 
-# Quickstart
+# 🙋 Questions courantes
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
