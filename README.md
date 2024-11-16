@@ -38,10 +38,6 @@ Ajoute Sbot sur ton serveur Discord dès maintenant en cliquant sur le lien ou l
 
 _**Version de la documentation : v1.4.0 du 06/11/2023**_
 
-**Dernière mise à jour : Juin 2024**
+**Dernière mise à jour : Novembre 2024**
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
-
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="faq/questions-courantes.md">questions-courantes.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="faq/erreurs.md">erreurs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Questions courantes</strong></td><td>Voici des questions qui sont fréquemments posées</td><td></td><td></td><td><a href="faq/questions-courantes.md">questions-courantes.md</a></td></tr><tr><td><strong>Modérer ton serveur</strong></td><td>Configure l'anti doubles comptes facilement</td><td></td><td></td><td><a href="tutos/moderation/anti-dc.md">anti-dc.md</a></td></tr><tr><td>Amuse toi</td><td>Configure les mots reacts de Sbot</td><td></td><td></td><td><a href="tutos/les-mots-reacts.md">les-mots-reacts.md</a></td></tr></tbody></table>
