@@ -1,13 +1,29 @@
----
-icon: plug-circle-plus
----
+# 🖱 Créer un embed avec Sbot
 
-# Integrations
+Alors ça te tente de créer un embed avec Sbot ?
 
-GitBook integrations allow you to connect your GitBook spaces to some of your favorite platforms and services. You can install integrations into your GitBook page from the _Integrations_ menu in the top left.
+## 1. Fais /embed
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/integrations-hero.png" alt=""><figcaption></figcaption></figure>
+## 2. Profite
 
-### Types of integrations
+Pleins d'options s'offrent à toi, telle que
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Analytics</strong></td><td>Track analytics from your docs</td><td><a href="https://www.gitbook.com/integrations#analytics">https://www.gitbook.com/integrations#analytics</a></td><td></td><td></td></tr><tr><td><strong>Support</strong></td><td>Add support widgets to your docs</td><td><a href="https://www.gitbook.com/integrations#support">https://www.gitbook.com/integrations#support</a></td><td></td><td></td></tr><tr><td><strong>Interactive</strong></td><td>Add extra functionality to your docs</td><td><a href="https://www.gitbook.com/integrations#interactive">https://www.gitbook.com/integrations#interactive</a></td><td></td><td></td></tr><tr><td><strong>Visitor Authentication</strong></td><td>Protect your docs and require sign-in</td><td><a href="https://www.gitbook.com/integrations#visitor-authentication">https://www.gitbook.com/integrations#visitor-authentication</a></td><td></td><td></td></tr></tbody></table>
+**Créer/modifier corp** : te permet de définir le titre, la description, l'image et la vignette de l'embed
+
+**Auteur** : te permet de définir l'auteur de l'embed
+
+**Footer**: te permet de définir l'auteur de l'embed
+
+**Couleur** : te permet de définir la couleur de l'embed
+
+**Timestamp** : te permet d'ajouter une vignette de la date de création de l'embed sur l'embed
+
+~~Composants~~ : non disponible actuellement
+
+FAIS ATTENTION : quand tu sélectionne par exemple créer/modifier corp, si finalement tu ne veux pas clique sur valider sans rien mettre mais ne sors pas du modal comme ça, pour éviter des bugs
+
+## 3. Envoyer l'embed sur un channel
+
+Sélectionne un channel dans la liste (verifie que Sbot y a accès), clique dessus et l'embed s'enverra dessus !
+
+Simple, efficace : tu sais maintenant te servir tu créateur d'embed de Sbot.
