@@ -1,28 +1,24 @@
 ---
-icon: bullseye-arrow
 description: Voici des questions courantes que tu peux te poser sur Sbot
+cover: >-
+  https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjb2xvcnxlbnwwfHx8fDE2ODM4MjU3OTZ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
-# 🙋 Questions courantes
+# 💁 Questions courantes
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+### Sbot est-il souvent down ?
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Non, SBot a un très fort taux de disponibilité, afin de te rendre service au mieux 😎
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+### SBot est il fiable ?
 
-### Import
+Oui, je fais de mon mieux pour sécuriser un maxium Sbot, ainsi que de préserver un maximum la confidentialitée.\
+Pour consulter sa politique de confidentialité :\
+\> [clique ici](https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o)\
+Et ses conditions d'utilisations :\
+\> [clique ici](https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o)
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+### Sbot est il maintenu et mise à jour régulierement ?
 
-<div data-full-width="false">
-
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+Oui !
