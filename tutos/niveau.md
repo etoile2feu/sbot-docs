@@ -1,50 +1,22 @@
----
-icon: hand-pointer
----
+# 📈 Système de niveau
 
-# Interactive blocks
+Sbot a un système de niveau performant et personnalisable 🎉, que tu peux configurer comme ceci :
 
-In addition to the default Markdown you can write, GitBook has a number of out-of-the-box interactive blocks you can use. You can find interactive blocks by pressing `/` from within the editor.
+## 1. Fais la commande /config-level
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption></figcaption></figure>
+Sélectionne activer/modifier pour activer ou modifier la configuration du système de niveau
+Si tu veux désactiver le système de niveau, sélectionne désactiver.
 
-### Tabs
+## 2. Processus de configuration
 
-{% tabs %}
-{% tab title="First tab" %}
-Each tab is like a mini page — it can contain multiple other blocks, of any type. So you can add code blocks, images, integration blocks and more to individual tabs in the same tab block.
-{% endtab %}
+Un processus de configuration facile va te guider !
 
-{% tab title="Second tab" %}
-Add images, embedded content, code blocks, and more.
+> Choisi d'abord des channels tels que #spam, que Sbot ignorera. Par exemple si tu as mis #spam, les membres auront beau envoyer 100 messages sur ce Channel ils ne gagneront pas d'XP. Cela permet d'éviter le farm/l'autodrop d'XP. Clique sur ⏩ pour que aucun channel ne soit ignoré. Ensuite, envoie le message que Sbot dira quand un membre atteint la level supérieur (en + du traditionelle "Tu as passé la level 3 !")
 
-```javascript
-const handleFetchEvent = async (request, context) => {
-    return new Response({message: "Hello World"});
-};
-```
-{% endtab %}
-{% endtabs %}
+> Sélectionne ensuite le channel où Sbot enverra les messages de level UP. Si tu souhaites qu'il l'envoie sur le channel où le membre a envoyé le message (vérifie que Sbot a la permission sur le channel en question !) clique sur ⏩.
 
-### Expandable sections
+> Dernière étape, la configuration du ping : si tu veux que SBot te ping quand tu ou qqun augmenteras de niveau ou pas
 
-<details>
+Astuce : Tu peux faire /modifier-xp pour modifier l'xp d'un membre (pour enlever 10 xp par exemple -10, et en ajouter 10 xp du coup 10)
 
-<summary>Click me to expand</summary>
-
-Expandable blocks are helpful in condensing what could otherwise be a lengthy paragraph. They are also great in step-by-step guides and FAQs.
-
-</details>
-
-### Drawings
-
-<img alt="" class="gitbook-drawing">
-
-### Embedded content
-
-{% embed url="https://www.youtube.com/watch?v=YILlrDYzAm4" %}
-
-{% hint style="info" %}
-GitBook supports thousands of embedded websites out-of-the-box, simply by pasting their links. Feel free to check out which ones[ are supported natively](https://iframely.com).
-{% endhint %}
-
+C'est fini ! 😎🎉 Te voilà avec un système de niveau performant pour ton serveur Discord.
