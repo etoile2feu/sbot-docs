@@ -36,7 +36,7 @@ Ajoute Sbot sur ton serveur Discord dès maintenant en cliquant sur le lien ou l
 
 **Version de Sbot : 3.4.0**
 
-_**Version de la documentation : v1.4.0 du 06/11/2023**_
+_**Version de la documentation : v1.5.0 du 19/01/2025**_
 
 **Dernière mise à jour : Janvier 2025**
 

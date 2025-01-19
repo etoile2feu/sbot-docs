@@ -17,7 +17,7 @@ Oui, je fais de mon mieux pour sécuriser un maxium Sbot, ainsi que de préserve
 Pour consulter sa politique de confidentialité :\
 \> [clique ici](https://docs.google.com/document/d/14RgWm-MeF_LZvNBEHH8eAm4-D43J26AgIqvsNFHzD50)\
 Et ses conditions d'utilisations :\
-\> [clique ici](https://docs.google.com/document/d/1QZHGmnB2AB6DWMTwLgXpNdEkKGfHd7p5iwH-U1sDy7o)
+\> [clique ici](https://docs.google.com/document/d/1pHG1qkCzCmc4oeWBVk45EQ4FuMGJOjgu3pnQqnBMZK0)
 
 ### Sbot est il maintenu et mise à jour régulierement ?
 

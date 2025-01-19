@@ -13,3 +13,7 @@ Version majeures : les versions majeurs sont des versions où beaucoup de change
 ### À quoi a servis le passage à la V3, dernière version majeure de Sbot ?
 
 La V3 a permis une évolution de pleins de système de Sbot , une optimisation général, même au niveau du dev etc, bref c'est l'une des plus grandes évolution de Sbot à ce jour.
+
+## Quand sera la prochaine version majeure de Sbot ?
+
+Cette année ! Vous allez être régalés pour la V4.
