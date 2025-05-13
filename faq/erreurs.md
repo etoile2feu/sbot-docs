@@ -25,7 +25,7 @@ coverY: 0
 
 ## Pourquoi les mots reactions ne fonctionnent plus sur mon serveur ?
 
-Les bots privilégiés doivent demander l'autorisation pour accéder au contenu des messages.
+Les bots certifiés doivent demander l'autorisation pour accéder au contenu des messages.
 Je ne l'ai pas encore, en attendant le système ne fonctionne que lorsque vous mentionnez le bot.
 Si la situation dure je sortirais un deuxième bot ce qui fera une extension à Sbot, j'envisage de le faire si d'ici là V4 Nouveautés je n'ai toujours pas l'intent MessageContent.
 
