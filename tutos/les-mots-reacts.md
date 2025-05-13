@@ -2,6 +2,8 @@
 description: Qu'est ce que les mots reacts sur Sbot et comment les paramétrer ?
 ---
 
+⚠️ Voir la section erreur pour l'explication de l'état de ce système ⚠️
+
 # 💬 Les mots reacts
 
 Les mots reacts sur Sbot, c'est des réponses/reactions automatiques de Sbot à certains mots (ex Hola => Hola todos).
