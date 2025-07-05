@@ -30,11 +30,11 @@ Cette documentation est l'endroit idéal pour des astuces, tutos, ou aides pour 
 
 Ajoute Sbot sur ton serveur Discord dès maintenant en cliquant sur le lien ou l'image ci dessous !
 
-[![](https://sbot.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F988866995393024040%2F62ede995b6ba42d985a87d48300688fa.webp\&width=300\&dpr=4\&quality=100\&sign=ab8c577f\&sv=1)](https://top.gg/bot/988866995393024040)
+[![](https://sbot.gitbook.io/\~gitbook/image?url=https://cdn.discordapp.com/avatars/988866995393024040/581afd8c4804aab24f981b8b8815223d.webp?size=1024)](https://top.gg/bot/988866995393024040)
 
 [Lien direct pour ajouter Sbot](https://discord.com/api/oauth2/authorize?client\_id=988866995393024040\&permissions=1618400898160\&scope=applications.commands%20bot)
 
-**Version de Sbot : 3.6.1**
+**Version de Sbot : 4.0.0**
 
 _**Version de la documentation : v1.6.0 du 14/05/2025**_
 
