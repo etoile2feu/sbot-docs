@@ -5,7 +5,7 @@ icon: image-landscape
 
 # 🪟 1. C'est quoi un embed ?
 
-Un embed est un type de message discord ( un **composant** plus précisement). Tu peux le personnaliser à ta guise et les possibilités sont infinies !
+Un embed est un type de message discord ( un **composant** plus précisement).
 
 Voici à quoi peut ressembler un embed :
 
@@ -29,6 +29,4 @@ Un embed peut être composé de plusieurs éléments :
 >
 > Vignette Date : vignette de date de création de l'embed
 
-Le créateur de l'embed est encore en beta, donc un peu capricieux parfois mais totalement fonctionnelle !
-
-N’hésite pas à me signaler les bugs que tu as pu rencontrer sur celui ci.
+Les embeds sont donc une très bonne manière de désigner des messages.
