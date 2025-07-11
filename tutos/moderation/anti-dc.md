@@ -6,7 +6,8 @@ icon: markdown
 
 Tu cherches à configurer un système d'anti double compte puissant et fiable ?
 
-Alors tu es au bon endroit 😎 Sbot a un système anti double comptes personnalisable, qui détecte si les nouveaux arrivants sont des doubles comptes ou pas en fonction des réglages que tu auras mis.
+Alors tu es au bon endroit 😎. Sbot a un système anti double comptes personnalisable ! 🎉
+Il détecte si les nouveaux arrivants sont des doubles comptes ou pas en fonction des réglages que tu auras mis.
 
 Pour configurer le système d'anti double comptes, il faut effectuer ses étapes :
 
