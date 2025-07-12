@@ -9,16 +9,16 @@ coverY: 0
 
 ### Sbot est-il souvent down ?
 
-Non, SBot a un très fort taux de disponibilité, afin de te rendre service au mieux 😎
+Non, Sbot a un très fort taux de disponibilité, afin de te rendre service au mieux 😎.
 
-### SBot est il fiable ?
+### Sbot est il fiable ?
 
-Oui, je fais de mon mieux pour sécuriser un maxium Sbot, ainsi que de préserver un maximum la confidentialitée.\
+Oui, je fais de mon mieux pour sécuriser un maximum Sbot, ainsi que de laisser un grand niveau de confidentialitée.\
 Pour consulter sa politique de confidentialité :\
 \> [clique ici](https://docs.google.com/document/d/14RgWm-MeF_LZvNBEHH8eAm4-D43J26AgIqvsNFHzD50)\
 Et ses conditions d'utilisations :\
 \> [clique ici](https://docs.google.com/document/d/1pHG1qkCzCmc4oeWBVk45EQ4FuMGJOjgu3pnQqnBMZK0)
 
-### Sbot est il maintenu et mise à jour régulierement ?
+### Sbot est-il maintenu et mise à jour régulierement ?
 
 Oui !
