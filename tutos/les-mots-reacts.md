@@ -2,28 +2,28 @@
 description: Qu'est ce que les mots reacts sur Sbot et comment les paramétrer ?
 ---
 
-⚠️ Voir la section erreur pour l'explication de l'état de ce système ⚠️
-
 # 💬 Les mots reacts
 
 Les mots reacts sur Sbot, c'est des réponses/reactions automatiques de Sbot à certains mots (ex Hola => Hola todos).
 
-Ça peut etre marrant mais deregeant, c'est pour ça que par dééfaut c'est désactivé.
+Cela peut être marrant mais dérangeant, c'est pour cette raison qu'ils sont par défaut désactivés.
 
 Sur cette page je vais t'expliquer comment configurer ce système, et paramétrer seulement certains channels où y a des mots reacts !
 
+Le système de mots/reacts ne fonctionne plus que lorsque que tu réponds à/mentionne Sbot dans ton message, je cherche à moyen pour faire revenir en entier le système cette année ! ⚠️
+
 ## 1. Fais /config-motsreact
 
-> Selectionne Activer
+> Selectionne Activer.
 
-## 2. Configure les channels où y aura les mots reacts
+## 2. Configure les salons où y aura les mots reacts
 
-Là, deux choix s'offrent à toi :
+Ici, deux choix s'offrent à toi :
 
-> Activer les mots reacts de Sbot sur tous les channels de ton serveur
+> Activer les mots reacts de Sbot sur tous les salons de ton serveur
 >
-> Selectionner les channels où y aura les mots reacts de Sbot.
+> Activer les mots reacts de Sbot seulement sur certains channels
 
-## 3. Desactiver les mots reacts
+## 3. Désactiver les mots reacts
 
-Si tu veux desactiver les mot reacts, fais /config-motsreact, puis selectionne desactiver !
+Si tu souhaites désactiver les mots reacts, fais /config-motsreact, puis sélectionne désactiver !
