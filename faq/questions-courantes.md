@@ -15,9 +15,9 @@ Non, Sbot a un très fort taux de disponibilité, afin de te rendre service au m
 
 Oui, je fais de mon mieux pour sécuriser un maximum Sbot, ainsi que de laisser un grand niveau de confidentialitée.\
 Pour consulter sa politique de confidentialité :\
-\> [clique ici](https://docs.google.com/document/d/14RgWm-MeF_LZvNBEHH8eAm4-D43J26AgIqvsNFHzD50)\
+\> [clique ici](https://docs.google.com/document/d/1K_GT4eWzL5xKMhyeArMaFeyL3o3purWORMrNQoTgS3Y)\
 Et ses conditions d'utilisations :\
-\> [clique ici](https://docs.google.com/document/d/1pHG1qkCzCmc4oeWBVk45EQ4FuMGJOjgu3pnQqnBMZK0)
+\> [clique ici](https://docs.google.com/document/d/1TSWDKb2lo1zJqvg4Yh8WjJX6jiEeFrqyAC8Ou3jx0AE)
 
 ### Sbot est-il maintenu et mise à jour régulierement ?
 

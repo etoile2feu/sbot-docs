@@ -30,14 +30,14 @@ Cette documentation est l'endroit idéal pour des astuces, tutos, ou aides pour 
 
 Ajoute Sbot sur ton serveur Discord dès maintenant en cliquant sur le lien ou l'image ci dessous !
 
-[![](https://sbot.gitbook.io/\~gitbook/image?url=url)](https://top.gg/bot/988866995393024040)
+[![](https://sbot-1.gitbook.io/\~gitbook/image?url=sbot-logo)](https://top.gg/bot/988866995393024040)
 
 [Lien direct pour ajouter Sbot](https://discord.com/api/oauth2/authorize?client\_id=988866995393024040\&permissions=1618400898160\&scope=applications.commands%20bot)
 
-**Version de Sbot : 4.0.1**
+**Version de Sbot : 4.2.0**
 
-_**Version de la documentation : v1.6.0 du 14/05/2025**_
+_**Version de la documentation : v1.7.0 du 29/08/2025**_
 
-**Dernière mise à jour : Juillet 2025**
+**Dernière mise à jour : Août 2025**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Questions courantes</strong></td><td>Voici des questions qui sont fréquemments posées</td><td></td><td></td><td><a href="faq/questions-courantes.md">questions-courantes.md</a></td></tr><tr><td><strong>Modérer ton serveur</strong></td><td>Configure l'anti doubles comptes facilement</td><td></td><td></td><td><a href="tutos/moderation/anti-dc.md">anti-dc.md</a></td></tr><tr><td>Amuse toi</td><td>Configure les mots reacts de Sbot</td><td></td><td></td><td><a href="tutos/les-mots-reacts.md">les-mots-reacts.md</a></td></tr></tbody></table>
